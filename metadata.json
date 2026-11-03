@@ -1,0 +1,6 @@
+{
+  "name": "LinkKeeper - Curadoria & Links",
+  "description": "App para salvar links por categorias e tags com busca instantânea, Dark Mode elegante e exportação JSON/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
