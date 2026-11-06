@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Artefatos e configuração do AI Studio
+ai-studio/
